@@ -7,6 +7,7 @@ colorama==0.4.6
 comm==0.2.2
 debugpy==1.8.14
 decorator==5.2.1
+dotenv==0.9.9
 executing==2.2.0
 google-ai-generativelanguage==0.6.15
 google-api-core==2.24.2
@@ -42,6 +43,7 @@ pydantic_core==2.33.1
 Pygments==2.19.1
 pyparsing==3.2.3
 python-dateutil==2.9.0.post0
+python-dotenv==1.1.0
 pywin32==310
 pyzmq==26.4.0
 requests==2.32.3
